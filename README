@@ -1,0 +1,4 @@
+My some useful jquery plugin
+
+rake build_jquery_plugin
+will compress into one file
